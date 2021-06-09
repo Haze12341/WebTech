@@ -1,0 +1,106 @@
+body
+{
+	width: 100%;
+	font-family: cursive;
+	color: #cc9933;
+	background-color: black;
+}
+
+header
+{
+	width: 100%;
+	height: 30%;
+}
+
+nav
+{
+	width: 20%;
+	float: left;
+	position: fixed;
+	font-size: 110%;
+}
+
+article
+{
+	text-align: center;
+	width: 80%;
+	float: right;
+	background-color: black;
+}
+
+footer
+{
+	width: 100%;
+	font-family: fantasy;
+	font-size: 110%;
+	text-align: center;
+	float: left;
+}
+
+button
+{
+	width: 100%;
+	height: 50px;
+	background-color: #222222;
+	border-color: gray;
+	color: #cc9933;
+}
+
+p
+{
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: justify;
+}
+
+a
+{
+	color: #cc9933;
+}
+
+table
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	border: 1px solid gray;
+}
+
+th, td
+{
+	text-align: center;
+	height: 30%;
+	border: 1px solid gray;
+}
+
+.zwia
+{
+	width: 70%;
+	height: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rek
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.galeria
+{
+	width: 50%;
+}
+
+.obsada
+{
+	height: 200px;
+	width: 150px;
+}
+.miniObraz
+{
+	width: 10%;
+	height: 10%;
+}
+	
